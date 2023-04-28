@@ -1,0 +1,7 @@
+﻿.editorconfig eol=lf
+.gitattributes eol=lf
+.gitignore eol=lf
+
+*.csproj eol=crlf
+*.cs eol=crlf
+*.sln eol=crlf
